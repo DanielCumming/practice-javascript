@@ -1,0 +1,20 @@
+div.shape {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 5%;
+}
+
+div#circle {
+    border-radius: 50%;
+    background-color: aqua;
+}
+
+div#rounded {
+    border-radius: 20%;
+    background-color: rgb(172, 29, 201);
+}
+
+div#square {
+    background-color: rgb(22, 190, 16);
+}
